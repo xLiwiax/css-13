@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    background-image: url(cyberpunk.jpg);
+    color:  #ffff00;
+}
+h2{text-align: center;}
+p{text-align: center;}
+img{
+    width: 100px;
+    height: 150px;
+}
+.portfolio-item{
+    display: inline;
+    position: relative;
+    left: 30%;
+}
+form{text-align: center;}
